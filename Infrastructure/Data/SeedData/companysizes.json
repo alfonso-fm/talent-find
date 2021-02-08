@@ -1,0 +1,14 @@
+[
+  {
+      "Description": "Pequeña",
+      "id": 1
+  },
+  {
+      "Description": "Mediana",
+      "id": 2
+  },
+  {
+      "Description": "Grande",
+      "id": 3
+  }
+]

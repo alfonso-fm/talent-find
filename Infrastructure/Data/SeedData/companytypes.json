@@ -1,0 +1,14 @@
+[
+  {
+      "Description": "Servicios",
+      "Id": 1
+  },
+  {
+      "Description": "Productos",
+      "Id": 2
+  },
+  {
+      "Description": "Hibrida",
+      "Id": 3
+  }
+]
